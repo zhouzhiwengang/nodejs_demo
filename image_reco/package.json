@@ -1,0 +1,15 @@
+{
+  "name": "image_reco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^3.0.2",
+    "tesseract.js": "^1.0.14"
+  }
+}
